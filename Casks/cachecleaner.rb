@@ -11,7 +11,7 @@ cask "cachecleaner" do
   homepage "https://cachecleaner.app/"
 
   auto_updates true # ships with Sparkle
-  depends_on macos: ">= :sonoma"
+  depends_on macos: ">= :monterey"
 
   app "CacheCleaner.app"
 
