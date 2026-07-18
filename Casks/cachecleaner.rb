@@ -3,7 +3,7 @@
 # After each release: bump `version`, paste sha256 printed by scripts/release.sh.
 cask "cachecleaner" do
   version "1.0.0"
-  sha256 "5d4a5543b9e05cd3554b16558611cd6041c880f652bd171a673992ea1af8ff7b"
+  sha256 "ffcf611b8e8ec2a08f7f0fda8e44efd4ae8181180decb873933d9d043d5c9ed6"
 
   url "https://cachecleaner.app/downloads/CacheCleaner-#{version}.dmg"
   name "CacheCleaner"
