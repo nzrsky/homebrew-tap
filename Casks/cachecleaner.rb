@@ -2,8 +2,8 @@
 # Lives in the nzrsky/homebrew-tap repository as Casks/cachecleaner.rb.
 # After each release: bump `version`, paste sha256 printed by scripts/release.sh.
 cask "cachecleaner" do
-  version "2.9.0"
-  sha256 "8114e888c633b2d708ccfac5ad6f12c4792100e72be0cc30c796c7c3a87e4e6b"
+  version "1.0.0"
+  sha256 "e66857a17125116ca8e616f98c1af4a7bf2adafd1f94301d9db44d268da498b6"
 
   url "https://cachecleaner.app/downloads/CacheCleaner-#{version}.dmg"
   name "CacheCleaner"
